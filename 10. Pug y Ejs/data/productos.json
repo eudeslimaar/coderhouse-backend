@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Motorola",
+    "price": 250,
+    "thumbnail": "image03463463241",
+    "id": 1
+  },
+  { "title": "S20", "price": 400, "thumbnail": "image063463246361", "id": 2 },
+  { "title": "iPhone", "price": 300, "thumbnail": "image012346346", "id": 3 },
+  { "title": "E36", "price": "190", "thumbnail": "image0623462461", "id": 4 },
+  { "title": "LG", "price": "690", "thumbnail": "image075236231", "id": 5 },
+  {
+    "title": "Xiaomi",
+    "price": "4500",
+    "thumbnail": "image013645371",
+    "id": 6
+  },
+  {
+    "title": "Nokia",
+    "price": "312398",
+    "thumbnail": "image02316711",
+    "id": 7
+  },
+  { "title": "N20", "price": "4382", "thumbnail": "image04234251", "id": 8 },
+  { "title": "E61", "price": "2342", "thumbnail": "image0dasd231", "id": 9 },
+  {
+    "title": "Nokia Lumia",
+    "price": "12340",
+    "thumbnail": "lumia1293485",
+    "id": 10
+  },
+  { "title": "asd", "price": "123123", "thumbnail": "imga10239123", "id": 11 },
+  {
+    "title": "nokia Lumia 123",
+    "price": "123313",
+    "thumbnail": "img_1923i5",
+    "id": 12
+  },
+  {
+    "title": "nokia Lumia 123",
+    "price": "123313",
+    "thumbnail": "img_1923i5",
+    "id": 13
+  }
+]

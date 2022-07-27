@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include('head');%>
+  <body class="container bg-light border border-primary rounded border-dark p-4">
+    <%- include('navbar');%>
+    
+    <h2 class="text-dark mt-2">Ingrese Productos</h2>
+    <form action="/productos" method="post">
+      <div class="mb-2">
+        <label for="title" class="form-label ">Título</label>
+        <input type="text" class="form-control border-dark" name="title" />
+      </div>
+      <div class="mb-2">
+        <label for="price" class="form-label">Precio</label>
+        <input type="number" class="form-control border-dark" name="price" />
+      </div>
+      <div class="mb-2">
+        <label for="thumbnail" class="form-label">Imagen</label>
+        <input type="text" class="form-control border-dark" name="thumbnail" />
+      </div>
+      <button type="submit" class="btn btn-dark">Cargar producto</button>
+    </form>
+
+    <%- include('scripts');%>
+  </body>
+</html>
